@@ -54,7 +54,7 @@ MTU = 1280
 PublicKey = ${peerPub}
 AllowedIPs = 0.0.0.0/0
 AllowedIPs = ::/0
-Endpoint = 162.159.192.3:500
+Endpoint = 162.159.192.5:500
 PersistentKeepalive = 20`;
     } else {
       configStr =
